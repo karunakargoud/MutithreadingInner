@@ -1,0 +1,7 @@
+C:\Users\karun\source\repos\MutithreadingInner\MutithreadingInner\bin\Debug\MutithreadingInner.exe.config
+C:\Users\karun\source\repos\MutithreadingInner\MutithreadingInner\bin\Debug\MutithreadingInner.exe
+C:\Users\karun\source\repos\MutithreadingInner\MutithreadingInner\bin\Debug\MutithreadingInner.pdb
+C:\Users\karun\source\repos\MutithreadingInner\MutithreadingInner\obj\Debug\MutithreadingInner.csproj.AssemblyReference.cache
+C:\Users\karun\source\repos\MutithreadingInner\MutithreadingInner\obj\Debug\MutithreadingInner.csproj.CoreCompileInputs.cache
+C:\Users\karun\source\repos\MutithreadingInner\MutithreadingInner\obj\Debug\MutithreadingInner.exe
+C:\Users\karun\source\repos\MutithreadingInner\MutithreadingInner\obj\Debug\MutithreadingInner.pdb
